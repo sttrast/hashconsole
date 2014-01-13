@@ -1,0 +1,6 @@
+C:\Users\scott\Documents\projects\vs2010\hash_console_app\hash_console_app\hash_console_app\bin\Debug\hash_console_app.exe
+C:\Users\scott\Documents\projects\vs2010\hash_console_app\hash_console_app\hash_console_app\bin\Debug\hash_console_app.pdb
+C:\Users\scott\Documents\projects\vs2010\hash_console_app\hash_console_app\hash_console_app\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\scott\Documents\projects\vs2010\hash_console_app\hash_console_app\hash_console_app\obj\x86\Debug\hash_console_app.exe
+C:\Users\scott\Documents\projects\vs2010\hash_console_app\hash_console_app\hash_console_app\obj\x86\Debug\hash_console_app.pdb
+C:\Users\scott\Documents\projects\vs2010\hash_console_app\hash_console_app\hash_console_app\bin\Debug\hash_console_app.exe.config
